@@ -195,12 +195,3 @@ article a{
 	text-decoration: none;
 	color: black;
 }
-.pravo {
-	position:relative;
-}
-.kart {
-	position: absolute;
-	top: -300px;
-	right: 40px;
-	border-left: 1px solid grey;
-}
