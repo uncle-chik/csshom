@@ -1,0 +1,206 @@
+.header {
+    background: white;
+}
+
+.menu {
+    text-align: center;
+    margin: 0 auto;
+	width: 75%;
+	padding:0;
+}
+
+.menu > li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+    font-size: 11px;
+}
+.menu a:hover{
+ color: red;
+}
+
+.menu a {
+    text-decoration: none;
+    color: grey;
+}
+
+.polit {
+    color: red;
+}
+
+.block1{
+	height:100px;
+	width: 30%;
+	display: inline-block;
+	float: left;
+}
+
+.block2{
+	height:100px;
+	width: 30%;
+	
+	float: left;
+	text-align: center;
+}
+
+.block3{
+	position: absolute;
+	right: 15px;
+	height:100px;
+	width: 30%;
+	float: left;
+}
+.zahol{
+	font-size: 35px;
+}
+.subzahol{
+	font-size: 12px;
+}
+
+.kole{display: inline-block;
+	font-size: 25px;
+	width: 45px; 
+	height: 32px;
+	border: solid 1px grey;
+	margin-top: 20px;
+	text-align: center;
+	margin-left:50px;}
+	
+
+	
+.kols{
+	display: inline-block;
+	font-size: 25px;
+	width: 45px; 
+	height: 32px;
+	border: solid 1px grey;
+	margin-top: 20px;
+	text-align: center;
+	margin-left:10px;
+}
+
+.kolse{
+	display: inline-block;
+	font-size: 25px;
+	width: 75px; 
+	height: 32px;
+	border: solid 1px grey;
+	text-align: center;
+	margin-top: 20px;
+	
+}
+.kolse a{font-size:15px}
+
+.main-block a {
+    text-decoration: none;
+    color: grey;
+}
+
+.main-block a:hover {
+    color: black;
+}
+.main-block{
+height:100px;
+border-top: 0.3px solid grey; 
+border-bottom: 0.3px solid grey; 
+}
+
+.stroka{
+position:absolute;
+
+width:100%;
+height: 100px;
+background: grey;
+border-top: 5px solid red;
+margin: 0 auto;
+}
+.obgortka div{
+
+width: 25%;
+height: 91px;
+float: left;
+
+}
+.obgortka{
+margin: 0 auto;
+width: 700px;
+}
+
+img{
+	float: left;
+	
+}
+.instroka1{
+	width: 25%;
+	height: 70px;
+	float: left;
+	margin: 15px;
+	margin-left:50px;
+	border-right: 1px solid black;
+}
+
+.instroka2{
+	width: 25%;
+	height: 70px;
+	float: left;
+	margin: 15px;
+	margin-left:50px;
+	border-right: 1px solid black;
+}
+.instroka3{
+	width: 25%;
+	height: 70px;
+	float: left;
+	margin: 15px;
+	margin-left:50px;
+	
+}
+aside{
+	position:relative;
+	width:300px;
+	top:100px;
+	float:left;
+}
+aside p{
+	
+	border-bottom: 1px solid grey;
+	
+}
+aside a:hover{
+ color: red;
+}
+
+aside a {
+    text-decoration: none;
+    color: grey;
+	display: inline-block;
+	width:95px;
+}
+article{
+	position:relative;
+	left:20px;
+	top:110px;
+	
+}
+article span{
+	display:inline-block;
+	width:500px;
+}
+article small{
+	display:inline-block;
+	width:500px;
+	border-bottom: 3px solid red;
+}
+article a{
+	text-decoration: none;
+	color: black;
+}
+.pravo {
+	position:relative;
+}
+.kart {
+	position: absolute;
+	top: -300px;
+	right: 40px;
+	border-left: 1px solid grey;
+}
